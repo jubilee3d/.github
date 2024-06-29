@@ -1,8 +1,6 @@
 ## Jubilee Source Files
 
-Welcome to the source files for the Jubilee project.
-
-For ease of browsing, repositories are organized by:
+Welcome to the source files for the Jubilee project. For ease of browsing, repositories are organized by:
 * 📡 machines
 * 🔧 tools 
 * 🛏️ bed plates
